@@ -1,0 +1,23 @@
+.btn1 {
+  width: 20rem;
+  font-size: 2rem;
+  margin-top: 20rem;
+  margin-left: 25rem;
+}
+
+.btn2 {
+  width: 20rem;
+  font-size: 2rem;
+  margin-left: 2rem;
+}
+
+.link {
+  text-decoration: none;
+  color: #333333;
+}
+
+.user {
+  width: 80px;
+  justify-items: center;
+  padding-right: 2rem;
+}
